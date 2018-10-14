@@ -1,5 +1,6 @@
 ## NATS Streaming Server
-NATS Streaming is an extremely performant, lightweight reliable streaming platform built on NATS
+NATS Streaming is an extremely performant, lightweight reliable streaming platform built on NATS.
+
 NATS Streaming provides the following high-level feature set.
 
 - Log based.
