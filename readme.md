@@ -8,3 +8,8 @@ NATS Streaming provides the following high-level feature set.
 - Rate matched on a per subscription basis.
 - Replay/Restart
 - Last Value Semantics
+
+### Run streaming server
+```sh
+docker run -p 4222:4222 -p 8222:8222 haritkumar/nats-streaming-server
+```
